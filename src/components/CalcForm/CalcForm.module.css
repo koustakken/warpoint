@@ -1,0 +1,13 @@
+.root {
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+}
+
+p {
+  margin: 0;
+}
